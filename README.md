@@ -3,8 +3,8 @@
 𝗜'𝗺 [Janno Potestades](https://github.com/jgpotestades)！I'm an aspiring computer engineer 👨‍💻
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgpotestades@gmail.com)](mailto:jgpotestades@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jgpotestades)
-[!visitors](https://visitor-badge.laobi.icu/badge?page_id=jgpotestades)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jgpotestades)(https://github.com/jgpotestades)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jgpotestades)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jgpotestades&show_icons=true&hide_border=true">
 
