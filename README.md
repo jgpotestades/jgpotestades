@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jgpotestades)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jgpotestades&show_icons=true&hide_border=true">
 
 ## 🧐 About
 - 📫 How to reach me: jgpotestades@gmail.com
