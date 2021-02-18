@@ -9,7 +9,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jgpotestades&show_icons=true&hide_border=true">
 
 ## 🧐 About
-- :school_satchel: 
+- :school_satchel: Learner and educator
+- :pizza: loves pizza
 - 📫 How to reach me: jgpotestades@gmail.com
 
 - 🌱 Languages and Tools: 
