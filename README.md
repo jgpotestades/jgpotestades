@@ -8,14 +8,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jgpotestades&show_icons=true&hide_border=true">
 
-## 🧐 About
+## 🧐 Fun facts about me
 - :school_satchel: Learner and educator
 - :pizza: loves pizza
 - 📫 How to reach me: jgpotestades@gmail.com
 
-- 🌱 Languages and Tools: 
 
 
+
+
+## 🌱 Languages and Tools: 
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
